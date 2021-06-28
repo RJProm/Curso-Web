@@ -1,2 +1,8 @@
 # Curso-Web
-[CV](./Projects/HTML-Personal Site/index.html)
+[CV][1]
+
+
+
+
+
+[1]:"./Projects/HTML-Personal Site/index.html"
