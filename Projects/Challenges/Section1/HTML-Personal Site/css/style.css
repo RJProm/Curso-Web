@@ -1,0 +1,26 @@
+body {
+    background-color: #FBC99D;
+  }
+
+  img {
+    border-style: solid;
+    border-radius: 50%;
+    border-color: #042F4B;
+    border-width: 5px;
+  }
+
+  hr {
+    width: 5%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #FFF6DA;
+    border-width: 5px;
+  }
+
+  h1{
+    color: #042F4B;
+  }
+
+  h3{
+    color: #042F4B;
+  }
