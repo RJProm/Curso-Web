@@ -1,0 +1,37 @@
+/**************************** TAG SELECTOR *****************************/
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    color: red;
+    font-size: 100px;
+}
+
+img {
+    background-color: burlywood;
+}
+
+/**************************** CLASS SELECTOR *****************************
+* Select multiple tags
+* A tag can have multiple classes 
+*/
+.bacon {
+    background-color: green;
+}
+
+.broccoli {
+    background-color: red;
+}
+
+.circular {
+    border-radius: 50%;
+}
+
+/**************************** ID SELECTOR ****************************
+* Select just one tag
+* Used as an identifier
+*/
+#paragraph1 {
+    color:blue;
+}
