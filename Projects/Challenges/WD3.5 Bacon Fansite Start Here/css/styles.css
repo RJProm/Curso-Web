@@ -12,6 +12,9 @@ img {
     background-color: burlywood;
 }
 
+h1:hover {
+    color: green;
+}
 /**************************** CLASS SELECTOR *****************************
 * Select multiple tags
 * A tag can have multiple classes 
@@ -28,6 +31,9 @@ img {
     border-radius: 50%;
 }
 
+.circular:hover {
+    border-radius: 0%;
+}
 /**************************** ID SELECTOR ****************************
 * Select just one tag
 * Used as an identifier
