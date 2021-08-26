@@ -1,17 +1,23 @@
-.body {
+body {
     font-family: 'Spartan', sans-serif;
     font-size: 0.9375em;
+    position: relative;
+    text-align: center;
+    margin: 0px;
 }
 
 h1 {
     color: hsl(300, 43%, 22%);
+    margin: 0px auto;
+    padding-top: 90px;
+    width: 85%;
 }
 .top-image {
     background-image: url('../images/bg-pattern-top-mobile.svg');
     background-repeat: no-repeat;
     width: 100%;
     height: 0;
-    padding-top: 16%;
+    padding-top: 232px;
     position: absolute;
     top: 0px;
 }
@@ -21,7 +27,8 @@ h1 {
 }
 
 .first-paragraph {
-
+    width: 95%;
+    margin: 20px auto;
 }
 
 .rates-block {
@@ -33,6 +40,7 @@ h1 {
 }
 .star-img {
     background-image: url('../images/icon-star.svg');
+    margin: 15px auto;
     width: 84px; 
     height: 16px;
 }
@@ -45,18 +53,36 @@ h1 {
     background-color: hsl(300, 43%, 22%);
 }
 
+.reviewer-img {
+    border-radius: 100%;
+    float: left;
+    height: 50px;
+    margin: 20px 30px 20px 100px;
+    width: 50px;
+}
 .reviewer-name {
-
+    text-align: left;
 }
 
 .verification {
-
+    text-align: left;
 }
 
 .review-paragraph {
-
+    clear: left;
 }
 
 .bottom-image {
+    background-image: url(../images/bg-pattern-bottom-mobile.svg);
+    background-repeat: no-repeat;
+    width: 100%;
+    padding-bottom: 503px;
+    position: absolute;
+    bottom: 0px;
+    text-align: left;
+}
 
+
+@media screen and (min-width: 376){
+    
 }
